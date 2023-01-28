@@ -1,0 +1,3474 @@
+[
+    {
+      "code_tovar": "101",
+      "tovar": "Гуруч",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "13746.9907"
+    },
+    {
+      "code_tovar": "102",
+      "tovar": "Манний ёрмаси",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "12007.8505"
+    },
+    {
+      "code_tovar": "103",
+      "tovar": "Арпа",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "4562.5"
+    },
+    {
+      "code_tovar": "104",
+      "tovar": "Буғдой",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "5534.6667"
+    },
+    {
+      "code_tovar": "105",
+      "tovar": "Жўхори",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "5550"
+    },
+    {
+      "code_tovar": "106",
+      "tovar": "Кепак",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "3765"
+    },
+    {
+      "code_tovar": "108",
+      "tovar": "Шрот",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "109",
+      "tovar": "Шулха",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "110",
+      "tovar": "Комбикорм",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "4600"
+    },
+    {
+      "code_tovar": "1112",
+      "tovar": "Олий навли буғдой уни",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "8902.54"
+    },
+    {
+      "code_tovar": "111",
+      "tovar": "Олий навли буғдой уни (маҳаллий)",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "8686.8899"
+    },
+    {
+      "code_tovar": "112",
+      "tovar": "Олий навли буғдой уни (импорт)",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "9003.1085"
+    },
+    {
+      "code_tovar": "1113",
+      "tovar": "Биринчи навли буғдой уни",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "7381.1788"
+    },
+    {
+      "code_tovar": "123",
+      "tovar": "Биринчи навли буғдой уни (маҳаллий)",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "6764.0212"
+    },
+    {
+      "code_tovar": "124",
+      "tovar": "Биринчи навли буғдой  уни (импорт)",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "7561.8948"
+    },
+    {
+      "code_tovar": "135",
+      "tovar": "Биринчи навли ундан қолипли нон (1 дона)",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "4666.6471"
+    },
+    {
+      "code_tovar": "136",
+      "tovar": "Жавдар нони",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "20321.703"
+    },
+    {
+      "code_tovar": "138",
+      "tovar": "Макарон",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "12103.4557"
+    },
+    {
+      "code_tovar": "1390",
+      "tovar": "Мол гўшти",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "71649.3248"
+    },
+    {
+      "code_tovar": "141",
+      "tovar": "Қўй гўшти",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "73884.7222"
+    },
+    {
+      "code_tovar": "1430",
+      "tovar": "Парранда гўшти",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "32468.7108"
+    },
+    {
+      "code_tovar": "145",
+      "tovar": "Қуён гўшти",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "73520.8334"
+    },
+    {
+      "code_tovar": "146",
+      "tovar": "Балиқ",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "31415.7143"
+    },
+    {
+      "code_tovar": "147",
+      "tovar": "Сут, 1 литр",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "7962.5"
+    },
+    {
+      "code_tovar": "1470",
+      "tovar": "Сут ва қатиқ махсулотлари",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "8421.2808"
+    },
+    {
+      "code_tovar": "1550",
+      "tovar": "Ўсимлик ёғи",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "21910.7068"
+    },
+    {
+      "code_tovar": "1551",
+      "tovar": "Пахта ёғи, 1 литр",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "20363.5355"
+    },
+    {
+      "code_tovar": "1552",
+      "tovar": "Кунгабоқар ёғи, 1 литр",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "22568.4997"
+    },
+    {
+      "code_tovar": "148",
+      "tovar": "Қаймок",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "45054.0675"
+    },
+    {
+      "code_tovar": "149",
+      "tovar": "Пишлоқ",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "67283.1019"
+    },
+    {
+      "code_tovar": "150",
+      "tovar": "Бринза",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "37637.5"
+    },
+    {
+      "code_tovar": "151",
+      "tovar": "Творог",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "23574.8016"
+    },
+    {
+      "code_tovar": "152",
+      "tovar": "Сметана",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "27363.0952"
+    },
+    {
+      "code_tovar": "154",
+      "tovar": "Тухум, 10 донаси",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "11516.8485"
+    },
+    {
+      "code_tovar": "159",
+      "tovar": "Сариёғ",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "72642.9349"
+    },
+    {
+      "code_tovar": "161",
+      "tovar": "Лимон",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "27453.4722"
+    },
+    {
+      "code_tovar": "162",
+      "tovar": "Олма",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "10550.463"
+    },
+    {
+      "code_tovar": "163",
+      "tovar": "Нок",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "18060.549"
+    },
+    {
+      "code_tovar": "171",
+      "tovar": "Узум",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "13856.5476"
+    },
+    {
+      "code_tovar": "172",
+      "tovar": "Тарвуз",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "2119.6759"
+    },
+    {
+      "code_tovar": "173",
+      "tovar": "Қовун",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "3032.7381"
+    },
+    {
+      "code_tovar": "175",
+      "tovar": "Кишмиш",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "49550.3968"
+    },
+    {
+      "code_tovar": "176",
+      "tovar": "Туршак (баргак)",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "46276.422"
+    },
+    {
+      "code_tovar": "177",
+      "tovar": "Карам",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "3134.5833"
+    },
+    {
+      "code_tovar": "178",
+      "tovar": "Кўкатлар (кўк пиёз, укроп, петрушка ва бошқалар, тури кўрсатилсин)",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "17371.0648"
+    },
+    {
+      "code_tovar": "179",
+      "tovar": "Бодринг",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "7201.9676"
+    },
+    {
+      "code_tovar": "180",
+      "tovar": "Помидор",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "9544.213"
+    },
+    {
+      "code_tovar": "181",
+      "tovar": "Бақлажон",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "4644.0807"
+    },
+    {
+      "code_tovar": "182",
+      "tovar": "Булғор қалампири",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "8153.125"
+    },
+    {
+      "code_tovar": "183",
+      "tovar": "Қовоқ",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "3894.494"
+    },
+    {
+      "code_tovar": "184",
+      "tovar": "Хўраки лавлаги",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "4727.834"
+    },
+    {
+      "code_tovar": "185",
+      "tovar": "Сабзи",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "3438.6574"
+    },
+    {
+      "code_tovar": "186",
+      "tovar": "Шолғом",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "7578.5714"
+    },
+    {
+      "code_tovar": "188",
+      "tovar": "Пиёз",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "3607.8472"
+    },
+    {
+      "code_tovar": "190",
+      "tovar": "Турп",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "191",
+      "tovar": "Картошка",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "4141.6667"
+    },
+    {
+      "code_tovar": "192",
+      "tovar": "Ловия",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "16171.6931"
+    },
+    {
+      "code_tovar": "193",
+      "tovar": "Нўхат",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "21223.4127"
+    },
+    {
+      "code_tovar": "194",
+      "tovar": "Мош",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "15707.9365"
+    },
+    {
+      "code_tovar": "195",
+      "tovar": "Шакар",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "13571.3294"
+    },
+    {
+      "code_tovar": "196",
+      "tovar": "Болалар маҳсус озуқаси",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "157758.667"
+    },
+    {
+      "code_tovar": "197",
+      "tovar": "Туз",
+      "saoto": "1726",
+      "saoto_name": "Шаҳар бўйича ўртача",
+      "date_inter": "20220921",
+      "price": "2897.5496"
+    },
+    {
+      "code_tovar": "101",
+      "tovar": "Гуруч",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "13555.5556"
+    },
+    {
+      "code_tovar": "102",
+      "tovar": "Манний ёрмаси",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "10720"
+    },
+    {
+      "code_tovar": "103",
+      "tovar": "Арпа",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "104",
+      "tovar": "Буғдой",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "5830"
+    },
+    {
+      "code_tovar": "105",
+      "tovar": "Жўхори",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "6000"
+    },
+    {
+      "code_tovar": "106",
+      "tovar": "Кепак",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "108",
+      "tovar": "Шрот",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "109",
+      "tovar": "Шулха",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "110",
+      "tovar": "Комбикорм",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "1112",
+      "tovar": "Олий навли буғдой уни",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "9472.2222"
+    },
+    {
+      "code_tovar": "111",
+      "tovar": "Олий навли буғдой уни (маҳаллий)",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "9562.5"
+    },
+    {
+      "code_tovar": "112",
+      "tovar": "Олий навли буғдой уни (импорт)",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "9400"
+    },
+    {
+      "code_tovar": "1113",
+      "tovar": "Биринчи навли буғдой уни",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "7511.7647"
+    },
+    {
+      "code_tovar": "123",
+      "tovar": "Биринчи навли буғдой уни (маҳаллий)",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "7142.8571"
+    },
+    {
+      "code_tovar": "124",
+      "tovar": "Биринчи навли буғдой  уни (импорт)",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "7770"
+    },
+    {
+      "code_tovar": "135",
+      "tovar": "Биринчи навли ундан қолипли нон (1 дона)",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "4666.7"
+    },
+    {
+      "code_tovar": "136",
+      "tovar": "Жавдар нони",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "21914.2857"
+    },
+    {
+      "code_tovar": "138",
+      "tovar": "Макарон",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "12244.4444"
+    },
+    {
+      "code_tovar": "1390",
+      "tovar": "Мол гўшти",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "77368.4211"
+    },
+    {
+      "code_tovar": "141",
+      "tovar": "Қўй гўшти",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "72200"
+    },
+    {
+      "code_tovar": "1430",
+      "tovar": "Парранда гўшти",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "33722.2222"
+    },
+    {
+      "code_tovar": "145",
+      "tovar": "Қуён гўшти",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "75375"
+    },
+    {
+      "code_tovar": "146",
+      "tovar": "Балиқ",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "147",
+      "tovar": "Сут, 1 литр",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "9400"
+    },
+    {
+      "code_tovar": "1470",
+      "tovar": "Сут ва қатиқ махсулотлари",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "10263.1579"
+    },
+    {
+      "code_tovar": "1550",
+      "tovar": "Ўсимлик ёғи",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "22375.5135"
+    },
+    {
+      "code_tovar": "1551",
+      "tovar": "Пахта ёғи, 1 литр",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "22716.3333"
+    },
+    {
+      "code_tovar": "1552",
+      "tovar": "Кунгабоқар ёғи, 1 литр",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "22052.6316"
+    },
+    {
+      "code_tovar": "148",
+      "tovar": "Қаймок",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "52000"
+    },
+    {
+      "code_tovar": "149",
+      "tovar": "Пишлоқ",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "91444.4444"
+    },
+    {
+      "code_tovar": "150",
+      "tovar": "Бринза",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "40000"
+    },
+    {
+      "code_tovar": "151",
+      "tovar": "Творог",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "20850"
+    },
+    {
+      "code_tovar": "152",
+      "tovar": "Сметана",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "23850"
+    },
+    {
+      "code_tovar": "154",
+      "tovar": "Тухум, 10 донаси",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "11750"
+    },
+    {
+      "code_tovar": "159",
+      "tovar": "Сариёғ",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "86050"
+    },
+    {
+      "code_tovar": "161",
+      "tovar": "Лимон",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "28000"
+    },
+    {
+      "code_tovar": "162",
+      "tovar": "Олма",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "9000"
+    },
+    {
+      "code_tovar": "163",
+      "tovar": "Нок",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "20625"
+    },
+    {
+      "code_tovar": "171",
+      "tovar": "Узум",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "14500"
+    },
+    {
+      "code_tovar": "172",
+      "tovar": "Тарвуз",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "2177.7778"
+    },
+    {
+      "code_tovar": "173",
+      "tovar": "Қовун",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "2750"
+    },
+    {
+      "code_tovar": "175",
+      "tovar": "Кишмиш",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "56800"
+    },
+    {
+      "code_tovar": "176",
+      "tovar": "Туршак (баргак)",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "30555.5556"
+    },
+    {
+      "code_tovar": "177",
+      "tovar": "Карам",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "2987.5"
+    },
+    {
+      "code_tovar": "178",
+      "tovar": "Кўкатлар (кўк пиёз, укроп, петрушка ва бошқалар, тури кўрсатилсин)",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "15588.8889"
+    },
+    {
+      "code_tovar": "179",
+      "tovar": "Бодринг",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "7812.5"
+    },
+    {
+      "code_tovar": "180",
+      "tovar": "Помидор",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "11400"
+    },
+    {
+      "code_tovar": "181",
+      "tovar": "Бақлажон",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "4277.7778"
+    },
+    {
+      "code_tovar": "182",
+      "tovar": "Булғор қалампири",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "8333.3333"
+    },
+    {
+      "code_tovar": "183",
+      "tovar": "Қовоқ",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "3162.5"
+    },
+    {
+      "code_tovar": "184",
+      "tovar": "Хўраки лавлаги",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "4188.8889"
+    },
+    {
+      "code_tovar": "185",
+      "tovar": "Сабзи",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "3955.5556"
+    },
+    {
+      "code_tovar": "186",
+      "tovar": "Шолғом",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "9357.1429"
+    },
+    {
+      "code_tovar": "188",
+      "tovar": "Пиёз",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "4166.6667"
+    },
+    {
+      "code_tovar": "190",
+      "tovar": "Турп",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "191",
+      "tovar": "Картошка",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "4400"
+    },
+    {
+      "code_tovar": "192",
+      "tovar": "Ловия",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "15666.6667"
+    },
+    {
+      "code_tovar": "193",
+      "tovar": "Нўхат",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "20500"
+    },
+    {
+      "code_tovar": "194",
+      "tovar": "Мош",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "15857.1429"
+    },
+    {
+      "code_tovar": "195",
+      "tovar": "Шакар",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "13714.2857"
+    },
+    {
+      "code_tovar": "196",
+      "tovar": "Болалар маҳсус озуқаси",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "170385.7143"
+    },
+    {
+      "code_tovar": "197",
+      "tovar": "Туз",
+      "saoto": "1726262",
+      "saoto_name": "Фарҳод  бозори",
+      "date_inter": "20220921",
+      "price": "3112.5"
+    },
+    {
+      "code_tovar": "101",
+      "tovar": "Гуруч",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "11700"
+    },
+    {
+      "code_tovar": "102",
+      "tovar": "Манний ёрмаси",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "12000"
+    },
+    {
+      "code_tovar": "103",
+      "tovar": "Арпа",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "4125"
+    },
+    {
+      "code_tovar": "104",
+      "tovar": "Буғдой",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "5360"
+    },
+    {
+      "code_tovar": "105",
+      "tovar": "Жўхори",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "4700"
+    },
+    {
+      "code_tovar": "106",
+      "tovar": "Кепак",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "3160"
+    },
+    {
+      "code_tovar": "108",
+      "tovar": "Шрот",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "109",
+      "tovar": "Шулха",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "110",
+      "tovar": "Комбикорм",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "4600"
+    },
+    {
+      "code_tovar": "1112",
+      "tovar": "Олий навли буғдой уни",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "8460"
+    },
+    {
+      "code_tovar": "111",
+      "tovar": "Олий навли буғдой уни (маҳаллий)",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "112",
+      "tovar": "Олий навли буғдой уни (импорт)",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "8460"
+    },
+    {
+      "code_tovar": "1113",
+      "tovar": "Биринчи навли буғдой уни",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "6880"
+    },
+    {
+      "code_tovar": "123",
+      "tovar": "Биринчи навли буғдой уни (маҳаллий)",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "6900"
+    },
+    {
+      "code_tovar": "124",
+      "tovar": "Биринчи навли буғдой  уни (импорт)",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "6862.5"
+    },
+    {
+      "code_tovar": "135",
+      "tovar": "Биринчи навли ундан қолипли нон (1 дона)",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "4666.67"
+    },
+    {
+      "code_tovar": "136",
+      "tovar": "Жавдар нони",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "12425"
+    },
+    {
+      "code_tovar": "138",
+      "tovar": "Макарон",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "12050"
+    },
+    {
+      "code_tovar": "1390",
+      "tovar": "Мол гўшти",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "69775"
+    },
+    {
+      "code_tovar": "141",
+      "tovar": "Қўй гўшти",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "75300"
+    },
+    {
+      "code_tovar": "1430",
+      "tovar": "Парранда гўшти",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "29750"
+    },
+    {
+      "code_tovar": "145",
+      "tovar": "Қуён гўшти",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "146",
+      "tovar": "Балиқ",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "28000"
+    },
+    {
+      "code_tovar": "147",
+      "tovar": "Сут, 1 литр",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "5900"
+    },
+    {
+      "code_tovar": "1470",
+      "tovar": "Сут ва қатиқ махсулотлари",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "5911.7647"
+    },
+    {
+      "code_tovar": "1550",
+      "tovar": "Ўсимлик ёғи",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "20603.3333"
+    },
+    {
+      "code_tovar": "1551",
+      "tovar": "Пахта ёғи, 1 литр",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "20130"
+    },
+    {
+      "code_tovar": "1552",
+      "tovar": "Кунгабоқар ёғи, 1 литр",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "20840"
+    },
+    {
+      "code_tovar": "148",
+      "tovar": "Қаймок",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "35166.6667"
+    },
+    {
+      "code_tovar": "149",
+      "tovar": "Пишлоқ",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "62200"
+    },
+    {
+      "code_tovar": "150",
+      "tovar": "Бринза",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "31428.5714"
+    },
+    {
+      "code_tovar": "151",
+      "tovar": "Творог",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "21857.1429"
+    },
+    {
+      "code_tovar": "152",
+      "tovar": "Сметана",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "22166.6667"
+    },
+    {
+      "code_tovar": "154",
+      "tovar": "Тухум, 10 донаси",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "10750"
+    },
+    {
+      "code_tovar": "159",
+      "tovar": "Сариёғ",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "67900"
+    },
+    {
+      "code_tovar": "161",
+      "tovar": "Лимон",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "19500"
+    },
+    {
+      "code_tovar": "162",
+      "tovar": "Олма",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "11900"
+    },
+    {
+      "code_tovar": "163",
+      "tovar": "Нок",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "15900"
+    },
+    {
+      "code_tovar": "171",
+      "tovar": "Узум",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "11300"
+    },
+    {
+      "code_tovar": "172",
+      "tovar": "Тарвуз",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "1900"
+    },
+    {
+      "code_tovar": "173",
+      "tovar": "Қовун",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "2500"
+    },
+    {
+      "code_tovar": "175",
+      "tovar": "Кишмиш",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "31800"
+    },
+    {
+      "code_tovar": "176",
+      "tovar": "Туршак (баргак)",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "41000"
+    },
+    {
+      "code_tovar": "177",
+      "tovar": "Карам",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "2450"
+    },
+    {
+      "code_tovar": "178",
+      "tovar": "Кўкатлар (кўк пиёз, укроп, петрушка ва бошқалар, тури кўрсатилсин)",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "16900"
+    },
+    {
+      "code_tovar": "179",
+      "tovar": "Бодринг",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "4600"
+    },
+    {
+      "code_tovar": "180",
+      "tovar": "Помидор",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "7400"
+    },
+    {
+      "code_tovar": "181",
+      "tovar": "Бақлажон",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "3000"
+    },
+    {
+      "code_tovar": "182",
+      "tovar": "Булғор қалампири",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "8700"
+    },
+    {
+      "code_tovar": "183",
+      "tovar": "Қовоқ",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "3000"
+    },
+    {
+      "code_tovar": "184",
+      "tovar": "Хўраки лавлаги",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "2950"
+    },
+    {
+      "code_tovar": "185",
+      "tovar": "Сабзи",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "2550"
+    },
+    {
+      "code_tovar": "186",
+      "tovar": "Шолғом",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "5000"
+    },
+    {
+      "code_tovar": "188",
+      "tovar": "Пиёз",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "3190"
+    },
+    {
+      "code_tovar": "190",
+      "tovar": "Турп",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "191",
+      "tovar": "Картошка",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "3670"
+    },
+    {
+      "code_tovar": "192",
+      "tovar": "Ловия",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "16000"
+    },
+    {
+      "code_tovar": "193",
+      "tovar": "Нўхат",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "17500"
+    },
+    {
+      "code_tovar": "194",
+      "tovar": "Мош",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "15100"
+    },
+    {
+      "code_tovar": "195",
+      "tovar": "Шакар",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "13875"
+    },
+    {
+      "code_tovar": "196",
+      "tovar": "Болалар маҳсус озуқаси",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "181000"
+    },
+    {
+      "code_tovar": "197",
+      "tovar": "Туз",
+      "saoto": "1726264",
+      "saoto_name": "Қўйлиқ бозори",
+      "date_inter": "20220921",
+      "price": "2650"
+    },
+    {
+      "code_tovar": "101",
+      "tovar": "Гуруч",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "14600"
+    },
+    {
+      "code_tovar": "102",
+      "tovar": "Манний ёрмаси",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "11166.6667"
+    },
+    {
+      "code_tovar": "103",
+      "tovar": "Арпа",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "104",
+      "tovar": "Буғдой",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "5500"
+    },
+    {
+      "code_tovar": "105",
+      "tovar": "Жўхори",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "106",
+      "tovar": "Кепак",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "108",
+      "tovar": "Шрот",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "109",
+      "tovar": "Шулха",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "110",
+      "tovar": "Комбикорм",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "1112",
+      "tovar": "Олий навли буғдой уни",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "8700"
+    },
+    {
+      "code_tovar": "111",
+      "tovar": "Олий навли буғдой уни (маҳаллий)",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "112",
+      "tovar": "Олий навли буғдой уни (импорт)",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "8700"
+    },
+    {
+      "code_tovar": "1113",
+      "tovar": "Биринчи навли буғдой уни",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "8200"
+    },
+    {
+      "code_tovar": "123",
+      "tovar": "Биринчи навли буғдой уни (маҳаллий)",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "124",
+      "tovar": "Биринчи навли буғдой  уни (импорт)",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "8200"
+    },
+    {
+      "code_tovar": "135",
+      "tovar": "Биринчи навли ундан қолипли нон (1 дона)",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "4666.7"
+    },
+    {
+      "code_tovar": "136",
+      "tovar": "Жавдар нони",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "21333.3333"
+    },
+    {
+      "code_tovar": "138",
+      "tovar": "Макарон",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "12200"
+    },
+    {
+      "code_tovar": "1390",
+      "tovar": "Мол гўшти",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "73882.3529"
+    },
+    {
+      "code_tovar": "141",
+      "tovar": "Қўй гўшти",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "82000"
+    },
+    {
+      "code_tovar": "1430",
+      "tovar": "Парранда гўшти",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "33466.6667"
+    },
+    {
+      "code_tovar": "145",
+      "tovar": "Қуён гўшти",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "146",
+      "tovar": "Балиқ",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "25500"
+    },
+    {
+      "code_tovar": "147",
+      "tovar": "Сут, 1 литр",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "7800"
+    },
+    {
+      "code_tovar": "1470",
+      "tovar": "Сут ва қатиқ махсулотлари",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "9750"
+    },
+    {
+      "code_tovar": "1550",
+      "tovar": "Ўсимлик ёғи",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "21642.8571"
+    },
+    {
+      "code_tovar": "1551",
+      "tovar": "Пахта ёғи, 1 литр",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "20400"
+    },
+    {
+      "code_tovar": "1552",
+      "tovar": "Кунгабоқар ёғи, 1 литр",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "22333.3333"
+    },
+    {
+      "code_tovar": "148",
+      "tovar": "Қаймок",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "44500"
+    },
+    {
+      "code_tovar": "149",
+      "tovar": "Пишлоқ",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "67400"
+    },
+    {
+      "code_tovar": "150",
+      "tovar": "Бринза",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "39857.1429"
+    },
+    {
+      "code_tovar": "151",
+      "tovar": "Творог",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "26000"
+    },
+    {
+      "code_tovar": "152",
+      "tovar": "Сметана",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "24714.2857"
+    },
+    {
+      "code_tovar": "154",
+      "tovar": "Тухум, 10 донаси",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "11562.5"
+    },
+    {
+      "code_tovar": "159",
+      "tovar": "Сариёғ",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "66333.3333"
+    },
+    {
+      "code_tovar": "161",
+      "tovar": "Лимон",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "22625"
+    },
+    {
+      "code_tovar": "162",
+      "tovar": "Олма",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "6900"
+    },
+    {
+      "code_tovar": "163",
+      "tovar": "Нок",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "16100"
+    },
+    {
+      "code_tovar": "171",
+      "tovar": "Узум",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "12700"
+    },
+    {
+      "code_tovar": "172",
+      "tovar": "Тарвуз",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "2166.6667"
+    },
+    {
+      "code_tovar": "173",
+      "tovar": "Қовун",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "3400"
+    },
+    {
+      "code_tovar": "175",
+      "tovar": "Кишмиш",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "32166.6667"
+    },
+    {
+      "code_tovar": "176",
+      "tovar": "Туршак (баргак)",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "39222.2222"
+    },
+    {
+      "code_tovar": "177",
+      "tovar": "Карам",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "2312.5"
+    },
+    {
+      "code_tovar": "178",
+      "tovar": "Кўкатлар (кўк пиёз, укроп, петрушка ва бошқалар, тури кўрсатилсин)",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "19125"
+    },
+    {
+      "code_tovar": "179",
+      "tovar": "Бодринг",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "5500"
+    },
+    {
+      "code_tovar": "180",
+      "tovar": "Помидор",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "8200"
+    },
+    {
+      "code_tovar": "181",
+      "tovar": "Бақлажон",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "4428.5714"
+    },
+    {
+      "code_tovar": "182",
+      "tovar": "Булғор қалампири",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "7500"
+    },
+    {
+      "code_tovar": "183",
+      "tovar": "Қовоқ",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "4071.4286"
+    },
+    {
+      "code_tovar": "184",
+      "tovar": "Хўраки лавлаги",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "4714.2857"
+    },
+    {
+      "code_tovar": "185",
+      "tovar": "Сабзи",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "3937.5"
+    },
+    {
+      "code_tovar": "186",
+      "tovar": "Шолғом",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "9800"
+    },
+    {
+      "code_tovar": "188",
+      "tovar": "Пиёз",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "3800"
+    },
+    {
+      "code_tovar": "190",
+      "tovar": "Турп",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "191",
+      "tovar": "Картошка",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "4050"
+    },
+    {
+      "code_tovar": "192",
+      "tovar": "Ловия",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "14250"
+    },
+    {
+      "code_tovar": "193",
+      "tovar": "Нўхат",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "25333.3333"
+    },
+    {
+      "code_tovar": "194",
+      "tovar": "Мош",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "16071.4286"
+    },
+    {
+      "code_tovar": "195",
+      "tovar": "Шакар",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "13200"
+    },
+    {
+      "code_tovar": "196",
+      "tovar": "Болалар маҳсус озуқаси",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "132500"
+    },
+    {
+      "code_tovar": "197",
+      "tovar": "Туз",
+      "saoto": "1726269",
+      "saoto_name": "Наврўз бозори (ТТЗ)",
+      "date_inter": "20220921",
+      "price": "2785.7143"
+    },
+    {
+      "code_tovar": "101",
+      "tovar": "Гуруч",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "14300"
+    },
+    {
+      "code_tovar": "102",
+      "tovar": "Манний ёрмаси",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "13208.3333"
+    },
+    {
+      "code_tovar": "103",
+      "tovar": "Арпа",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "104",
+      "tovar": "Буғдой",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "5916.6667"
+    },
+    {
+      "code_tovar": "105",
+      "tovar": "Жўхори",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "5800"
+    },
+    {
+      "code_tovar": "106",
+      "tovar": "Кепак",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "5000"
+    },
+    {
+      "code_tovar": "108",
+      "tovar": "Шрот",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "109",
+      "tovar": "Шулха",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "110",
+      "tovar": "Комбикорм",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "1112",
+      "tovar": "Олий навли буғдой уни",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "8575"
+    },
+    {
+      "code_tovar": "111",
+      "tovar": "Олий навли буғдой уни (маҳаллий)",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "7714.2857"
+    },
+    {
+      "code_tovar": "112",
+      "tovar": "Олий навли буғдой уни (импорт)",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "9244.4444"
+    },
+    {
+      "code_tovar": "1113",
+      "tovar": "Биринчи навли буғдой уни",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "7425"
+    },
+    {
+      "code_tovar": "123",
+      "tovar": "Биринчи навли буғдой уни (маҳаллий)",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "6000"
+    },
+    {
+      "code_tovar": "124",
+      "tovar": "Биринчи навли буғдой  уни (импорт)",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "7628.5714"
+    },
+    {
+      "code_tovar": "135",
+      "tovar": "Биринчи навли ундан қолипли нон (1 дона)",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "4666.335"
+    },
+    {
+      "code_tovar": "136",
+      "tovar": "Жавдар нони",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "15250"
+    },
+    {
+      "code_tovar": "138",
+      "tovar": "Макарон",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "11500"
+    },
+    {
+      "code_tovar": "1390",
+      "tovar": "Мол гўшти",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "71450"
+    },
+    {
+      "code_tovar": "141",
+      "tovar": "Қўй гўшти",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "75300"
+    },
+    {
+      "code_tovar": "1430",
+      "tovar": "Парранда гўшти",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "30250"
+    },
+    {
+      "code_tovar": "145",
+      "tovar": "Қуён гўшти",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "146",
+      "tovar": "Балиқ",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "25500"
+    },
+    {
+      "code_tovar": "147",
+      "tovar": "Сут, 1 литр",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "7250"
+    },
+    {
+      "code_tovar": "1470",
+      "tovar": "Сут ва қатиқ махсулотлари",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "8111.1111"
+    },
+    {
+      "code_tovar": "1550",
+      "tovar": "Ўсимлик ёғи",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "22003.5484"
+    },
+    {
+      "code_tovar": "1551",
+      "tovar": "Пахта ёғи, 1 литр",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "20819.375"
+    },
+    {
+      "code_tovar": "1552",
+      "tovar": "Кунгабоқар ёғи, 1 литр",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "23266.6667"
+    },
+    {
+      "code_tovar": "148",
+      "tovar": "Қаймок",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "39250"
+    },
+    {
+      "code_tovar": "149",
+      "tovar": "Пишлоқ",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "70700"
+    },
+    {
+      "code_tovar": "150",
+      "tovar": "Бринза",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "33900"
+    },
+    {
+      "code_tovar": "151",
+      "tovar": "Творог",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "24750"
+    },
+    {
+      "code_tovar": "152",
+      "tovar": "Сметана",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "23000"
+    },
+    {
+      "code_tovar": "154",
+      "tovar": "Тухум, 10 донаси",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "11300"
+    },
+    {
+      "code_tovar": "159",
+      "tovar": "Сариёғ",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "70700"
+    },
+    {
+      "code_tovar": "161",
+      "tovar": "Лимон",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "19000"
+    },
+    {
+      "code_tovar": "162",
+      "tovar": "Олма",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "12000"
+    },
+    {
+      "code_tovar": "163",
+      "tovar": "Нок",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "21000"
+    },
+    {
+      "code_tovar": "171",
+      "tovar": "Узум",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "15750"
+    },
+    {
+      "code_tovar": "172",
+      "tovar": "Тарвуз",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "2000"
+    },
+    {
+      "code_tovar": "173",
+      "tovar": "Қовун",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "3750"
+    },
+    {
+      "code_tovar": "175",
+      "tovar": "Кишмиш",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "61000"
+    },
+    {
+      "code_tovar": "176",
+      "tovar": "Туршак (баргак)",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "59500"
+    },
+    {
+      "code_tovar": "177",
+      "tovar": "Карам",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "2833.3333"
+    },
+    {
+      "code_tovar": "178",
+      "tovar": "Кўкатлар (кўк пиёз, укроп, петрушка ва бошқалар, тури кўрсатилсин)",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "15700"
+    },
+    {
+      "code_tovar": "179",
+      "tovar": "Бодринг",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "7111.1111"
+    },
+    {
+      "code_tovar": "180",
+      "tovar": "Помидор",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "11400"
+    },
+    {
+      "code_tovar": "181",
+      "tovar": "Бақлажон",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "4714.2857"
+    },
+    {
+      "code_tovar": "182",
+      "tovar": "Булғор қалампири",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "7000"
+    },
+    {
+      "code_tovar": "183",
+      "tovar": "Қовоқ",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "3000"
+    },
+    {
+      "code_tovar": "184",
+      "tovar": "Хўраки лавлаги",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "5000"
+    },
+    {
+      "code_tovar": "185",
+      "tovar": "Сабзи",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "3500"
+    },
+    {
+      "code_tovar": "186",
+      "tovar": "Шолғом",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "11000"
+    },
+    {
+      "code_tovar": "188",
+      "tovar": "Пиёз",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "3416.6667"
+    },
+    {
+      "code_tovar": "190",
+      "tovar": "Турп",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "191",
+      "tovar": "Картошка",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "4650"
+    },
+    {
+      "code_tovar": "192",
+      "tovar": "Ловия",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "15571.4286"
+    },
+    {
+      "code_tovar": "193",
+      "tovar": "Нўхат",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "22000"
+    },
+    {
+      "code_tovar": "194",
+      "tovar": "Мош",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "15666.6667"
+    },
+    {
+      "code_tovar": "195",
+      "tovar": "Шакар",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "12000"
+    },
+    {
+      "code_tovar": "196",
+      "tovar": "Болалар маҳсус озуқаси",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "114009.5"
+    },
+    {
+      "code_tovar": "197",
+      "tovar": "Туз",
+      "saoto": "1726273",
+      "saoto_name": "Миробод  бозори",
+      "date_inter": "20220921",
+      "price": "2750"
+    },
+    {
+      "code_tovar": "101",
+      "tovar": "Гуруч",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "13900"
+    },
+    {
+      "code_tovar": "102",
+      "tovar": "Манний ёрмаси",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "9700"
+    },
+    {
+      "code_tovar": "103",
+      "tovar": "Арпа",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "104",
+      "tovar": "Буғдой",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "5490"
+    },
+    {
+      "code_tovar": "105",
+      "tovar": "Жўхори",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "5400"
+    },
+    {
+      "code_tovar": "106",
+      "tovar": "Кепак",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "108",
+      "tovar": "Шрот",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "109",
+      "tovar": "Шулха",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "110",
+      "tovar": "Комбикорм",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "1112",
+      "tovar": "Олий навли буғдой уни",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "8690"
+    },
+    {
+      "code_tovar": "111",
+      "tovar": "Олий навли буғдой уни (маҳаллий)",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "8460"
+    },
+    {
+      "code_tovar": "112",
+      "tovar": "Олий навли буғдой уни (импорт)",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "8920"
+    },
+    {
+      "code_tovar": "1113",
+      "tovar": "Биринчи навли буғдой уни",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "7680"
+    },
+    {
+      "code_tovar": "123",
+      "tovar": "Биринчи навли буғдой уни (маҳаллий)",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "124",
+      "tovar": "Биринчи навли буғдой  уни (импорт)",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "7680"
+    },
+    {
+      "code_tovar": "135",
+      "tovar": "Биринчи навли ундан қолипли нон (1 дона)",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "4666.67"
+    },
+    {
+      "code_tovar": "136",
+      "tovar": "Жавдар нони",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "19520"
+    },
+    {
+      "code_tovar": "138",
+      "tovar": "Макарон",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "10600"
+    },
+    {
+      "code_tovar": "1390",
+      "tovar": "Мол гўшти",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "70300"
+    },
+    {
+      "code_tovar": "141",
+      "tovar": "Қўй гўшти",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "71400"
+    },
+    {
+      "code_tovar": "1430",
+      "tovar": "Парранда гўшти",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "29010"
+    },
+    {
+      "code_tovar": "145",
+      "tovar": "Қуён гўшти",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "146",
+      "tovar": "Балиқ",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "147",
+      "tovar": "Сут, 1 литр",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "6150"
+    },
+    {
+      "code_tovar": "1470",
+      "tovar": "Сут ва қатиқ махсулотлари",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "6025"
+    },
+    {
+      "code_tovar": "1550",
+      "tovar": "Ўсимлик ёғи",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "20416.6667"
+    },
+    {
+      "code_tovar": "1551",
+      "tovar": "Пахта ёғи, 1 литр",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "20000"
+    },
+    {
+      "code_tovar": "1552",
+      "tovar": "Кунгабоқар ёғи, 1 литр",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "20750"
+    },
+    {
+      "code_tovar": "148",
+      "tovar": "Қаймок",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "42000"
+    },
+    {
+      "code_tovar": "149",
+      "tovar": "Пишлоқ",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "67150"
+    },
+    {
+      "code_tovar": "150",
+      "tovar": "Бринза",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "33300"
+    },
+    {
+      "code_tovar": "151",
+      "tovar": "Творог",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "22500"
+    },
+    {
+      "code_tovar": "152",
+      "tovar": "Сметана",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "40400"
+    },
+    {
+      "code_tovar": "154",
+      "tovar": "Тухум, 10 донаси",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "11444.4444"
+    },
+    {
+      "code_tovar": "159",
+      "tovar": "Сариёғ",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "72000"
+    },
+    {
+      "code_tovar": "161",
+      "tovar": "Лимон",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "27200"
+    },
+    {
+      "code_tovar": "162",
+      "tovar": "Олма",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "12100"
+    },
+    {
+      "code_tovar": "163",
+      "tovar": "Нок",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "18050"
+    },
+    {
+      "code_tovar": "171",
+      "tovar": "Узум",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "12350"
+    },
+    {
+      "code_tovar": "172",
+      "tovar": "Тарвуз",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "1930"
+    },
+    {
+      "code_tovar": "173",
+      "tovar": "Қовун",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "2250"
+    },
+    {
+      "code_tovar": "175",
+      "tovar": "Кишмиш",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "53700"
+    },
+    {
+      "code_tovar": "176",
+      "tovar": "Туршак (баргак)",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "47800"
+    },
+    {
+      "code_tovar": "177",
+      "tovar": "Карам",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "2090"
+    },
+    {
+      "code_tovar": "178",
+      "tovar": "Кўкатлар (кўк пиёз, укроп, петрушка ва бошқалар, тури кўрсатилсин)",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "13900"
+    },
+    {
+      "code_tovar": "179",
+      "tovar": "Бодринг",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "7450"
+    },
+    {
+      "code_tovar": "180",
+      "tovar": "Помидор",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "8500"
+    },
+    {
+      "code_tovar": "181",
+      "tovar": "Бақлажон",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "3850"
+    },
+    {
+      "code_tovar": "182",
+      "tovar": "Булғор қалампири",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "10800"
+    },
+    {
+      "code_tovar": "183",
+      "tovar": "Қовоқ",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "2350"
+    },
+    {
+      "code_tovar": "184",
+      "tovar": "Хўраки лавлаги",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "5000"
+    },
+    {
+      "code_tovar": "185",
+      "tovar": "Сабзи",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "3050"
+    },
+    {
+      "code_tovar": "186",
+      "tovar": "Шолғом",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "7900"
+    },
+    {
+      "code_tovar": "188",
+      "tovar": "Пиёз",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "2800"
+    },
+    {
+      "code_tovar": "190",
+      "tovar": "Турп",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "191",
+      "tovar": "Картошка",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "4100"
+    },
+    {
+      "code_tovar": "192",
+      "tovar": "Ловия",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "15550"
+    },
+    {
+      "code_tovar": "193",
+      "tovar": "Нўхат",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "21200"
+    },
+    {
+      "code_tovar": "194",
+      "tovar": "Мош",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "15500"
+    },
+    {
+      "code_tovar": "195",
+      "tovar": "Шакар",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "13700"
+    },
+    {
+      "code_tovar": "196",
+      "tovar": "Болалар маҳсус озуқаси",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "160993.4"
+    },
+    {
+      "code_tovar": "197",
+      "tovar": "Туз",
+      "saoto": "1726277",
+      "saoto_name": "Эски-Жўва бозори",
+      "date_inter": "20220921",
+      "price": "2790"
+    },
+    {
+      "code_tovar": "101",
+      "tovar": "Гуруч",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "14000"
+    },
+    {
+      "code_tovar": "102",
+      "tovar": "Манний ёрмаси",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "13500"
+    },
+    {
+      "code_tovar": "103",
+      "tovar": "Арпа",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "104",
+      "tovar": "Буғдой",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "5500"
+    },
+    {
+      "code_tovar": "105",
+      "tovar": "Жўхори",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "106",
+      "tovar": "Кепак",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "108",
+      "tovar": "Шрот",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "109",
+      "tovar": "Шулха",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "110",
+      "tovar": "Комбикорм",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "1112",
+      "tovar": "Олий навли буғдой уни",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "9209.0909"
+    },
+    {
+      "code_tovar": "111",
+      "tovar": "Олий навли буғдой уни (маҳаллий)",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "8275"
+    },
+    {
+      "code_tovar": "112",
+      "tovar": "Олий навли буғдой уни (импорт)",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "9742.8571"
+    },
+    {
+      "code_tovar": "1113",
+      "tovar": "Биринчи навли буғдой уни",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "6300"
+    },
+    {
+      "code_tovar": "123",
+      "tovar": "Биринчи навли буғдой уни (маҳаллий)",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "5400"
+    },
+    {
+      "code_tovar": "124",
+      "tovar": "Биринчи навли буғдой  уни (импорт)",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "7020"
+    },
+    {
+      "code_tovar": "135",
+      "tovar": "Биринчи навли ундан қолипли нон (1 дона)",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "4666.67"
+    },
+    {
+      "code_tovar": "136",
+      "tovar": "Жавдар нони",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "18000"
+    },
+    {
+      "code_tovar": "138",
+      "tovar": "Макарон",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "12142.8571"
+    },
+    {
+      "code_tovar": "1390",
+      "tovar": "Мол гўшти",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "66052.6316"
+    },
+    {
+      "code_tovar": "141",
+      "tovar": "Қўй гўшти",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "71300"
+    },
+    {
+      "code_tovar": "1430",
+      "tovar": "Парранда гўшти",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "38333.3333"
+    },
+    {
+      "code_tovar": "145",
+      "tovar": "Қуён гўшти",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "146",
+      "tovar": "Балиқ",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "28500"
+    },
+    {
+      "code_tovar": "147",
+      "tovar": "Сут, 1 литр",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "11250"
+    },
+    {
+      "code_tovar": "1470",
+      "tovar": "Сут ва қатиқ махсулотлари",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "11041.6667"
+    },
+    {
+      "code_tovar": "1550",
+      "tovar": "Ўсимлик ёғи",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "23750"
+    },
+    {
+      "code_tovar": "1551",
+      "tovar": "Пахта ёғи, 1 литр",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "18500"
+    },
+    {
+      "code_tovar": "1552",
+      "tovar": "Кунгабоқар ёғи, 1 литр",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "25500"
+    },
+    {
+      "code_tovar": "148",
+      "tovar": "Қаймок",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "44857.1429"
+    },
+    {
+      "code_tovar": "149",
+      "tovar": "Пишлоқ",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "56300"
+    },
+    {
+      "code_tovar": "150",
+      "tovar": "Бринза",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "37200"
+    },
+    {
+      "code_tovar": "151",
+      "tovar": "Творог",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "30142.8571"
+    },
+    {
+      "code_tovar": "152",
+      "tovar": "Сметана",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "29285.7143"
+    },
+    {
+      "code_tovar": "154",
+      "tovar": "Тухум, 10 донаси",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "10500"
+    },
+    {
+      "code_tovar": "159",
+      "tovar": "Сариёғ",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "58777.7778"
+    },
+    {
+      "code_tovar": "161",
+      "tovar": "Лимон",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "46000"
+    },
+    {
+      "code_tovar": "162",
+      "tovar": "Олма",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "13150"
+    },
+    {
+      "code_tovar": "163",
+      "tovar": "Нок",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "27166.6667"
+    },
+    {
+      "code_tovar": "171",
+      "tovar": "Узум",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "17000"
+    },
+    {
+      "code_tovar": "172",
+      "tovar": "Тарвуз",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "3000"
+    },
+    {
+      "code_tovar": "173",
+      "tovar": "Қовун",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "4166.6667"
+    },
+    {
+      "code_tovar": "175",
+      "tovar": "Кишмиш",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "59444.4444"
+    },
+    {
+      "code_tovar": "176",
+      "tovar": "Туршак (баргак)",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "45900"
+    },
+    {
+      "code_tovar": "177",
+      "tovar": "Карам",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "3000"
+    },
+    {
+      "code_tovar": "178",
+      "tovar": "Кўкатлар (кўк пиёз, укроп, петрушка ва бошқалар, тури кўрсатилсин)",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "17166.6667"
+    },
+    {
+      "code_tovar": "179",
+      "tovar": "Бодринг",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "9100"
+    },
+    {
+      "code_tovar": "180",
+      "tovar": "Помидор",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "12800"
+    },
+    {
+      "code_tovar": "181",
+      "tovar": "Бақлажон",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "5500"
+    },
+    {
+      "code_tovar": "182",
+      "tovar": "Булғор қалампири",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "7666.6667"
+    },
+    {
+      "code_tovar": "183",
+      "tovar": "Қовоқ",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "4500"
+    },
+    {
+      "code_tovar": "184",
+      "tovar": "Хўраки лавлаги",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "5160"
+    },
+    {
+      "code_tovar": "185",
+      "tovar": "Сабзи",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "3875"
+    },
+    {
+      "code_tovar": "186",
+      "tovar": "Шолғом",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "5050"
+    },
+    {
+      "code_tovar": "188",
+      "tovar": "Пиёз",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "3966.6667"
+    },
+    {
+      "code_tovar": "190",
+      "tovar": "Турп",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "191",
+      "tovar": "Картошка",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "4200"
+    },
+    {
+      "code_tovar": "192",
+      "tovar": "Ловия",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "16300"
+    },
+    {
+      "code_tovar": "193",
+      "tovar": "Нўхат",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "20416.6667"
+    },
+    {
+      "code_tovar": "194",
+      "tovar": "Мош",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "15500"
+    },
+    {
+      "code_tovar": "195",
+      "tovar": "Шакар",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "12500"
+    },
+    {
+      "code_tovar": "196",
+      "tovar": "Болалар маҳсус озуқаси",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "NULL"
+    },
+    {
+      "code_tovar": "197",
+      "tovar": "Туз",
+      "saoto": "1726280",
+      "saoto_name": "Қорақамиш  бозори",
+      "date_inter": "20220921",
+      "price": "2742.8571"
+    }
+]
